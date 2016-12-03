@@ -4,5 +4,6 @@ pipelines:
   default:
     - step:
         script:
-          - npm install
+          - npm install --development
+          - npm install --production
           - npm test
