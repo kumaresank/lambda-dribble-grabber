@@ -1,0 +1,7 @@
+image: nodesource/jessie:4.3.2
+
+pipelines:
+  default:
+    - step:
+        script:
+          - npm test
