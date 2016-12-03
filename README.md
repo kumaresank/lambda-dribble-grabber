@@ -14,3 +14,8 @@ Implement `grabber.js` file with functionality which grabs url and returns follo
 
 For gathering information from web use `jsdom` package. Also for promises the `bluebird` package us used.
 Targetted node version: 4.3.2
+
+Steps:
+ - fork this repository
+ - implement `grabber.js`
+ - create pull request
