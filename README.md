@@ -1,6 +1,6 @@
 # lambda-dribbble-grabber
 
-Implement `grabber.js` file with functionality which grabs url and returns following structure:
+Implement `grabber.js` file with functionality which grabs url and returns following structure (parsed from webpage at given URL):
 
 ```
 {
