@@ -18,7 +18,7 @@ describe('test handler',() => {
         'https://dribbble.com/shots/3135922-Prototype': {
             name: 'Prototype',
             tags: ['browser','car','engine','futuristic','interface','modern','navigation','prototype','site','ui','ux','web'],
-            colors: ['F46944','FDEAEA','F4DCDD','F3D0DB','E0AECF','E4876E','6D5367','B4BCBF']
+            colors: ['F36944','FDEAEA','F3DCDD','F3D0DB','E0AECF','E4876E','6D5367','B4BCBF']
         }
     }
 
