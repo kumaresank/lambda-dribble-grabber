@@ -20,4 +20,4 @@ For more example see test folder where you can find example URLs and expected re
 Steps:
  - fork this repository
  - implement `grabber.js`
- - create pull request
+ - give read access to your repository
