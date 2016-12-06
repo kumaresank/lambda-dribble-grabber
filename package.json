@@ -2,7 +2,7 @@
   "name": "lambda-dribbble-grabber",
   "version": "0.0.1",
   "scripts": {
-    "test": "mocha test"
+    "test": "mocha test --timeout 15000"
   },
   "dependencies": {
     "bluebird": "^3.4.6",
